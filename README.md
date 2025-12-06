@@ -14,3 +14,14 @@ Indoor Air Quality (IAQ) and infection control in healthcare facilities have bec
 - Institution: Georgia Institute of Technology
 - Program: M.S. in High Performance Buildings
 - Advisor: Dr. Patrick Kastner, Dr. Paula Gomez
+
+## Instructions for reconstructing mesh geometry in Jupyter Notebook 
+Despite these standards and prior studies, healthcare facilities still face a fundamental design challenge: they must maximize infection control, maintain thermal comfort, and control energy use at the same time. There is no quantitative, ICU‑specific evidence comparing the most commonly used ventilation strategies namely laminar airflow versus mixing ventilation under the same conditions. 
+
+Especially with respect to particle clearance times that:
+- how high to push Air change rates, 
+- how much negative pressure is beneficial beyond the minimum standard, and 
+- how supply temperature and localized drafts affect patients safety and comfort. 
+
+Why it matters? These gaps matter a lot because single wrong choice in ventilation strategy can lead to expensive retrofits, wasted energy, or increased infection risk increasing patients recovery time.
+<img width="4262" height="263" alt="image" src="" />
