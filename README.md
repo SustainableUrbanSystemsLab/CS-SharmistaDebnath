@@ -24,4 +24,6 @@ Especially with respect to particle clearance times that:
 - how supply temperature and localized drafts affect patients safety and comfort. 
 
 Why it matters? These gaps matter a lot because single wrong choice in ventilation strategy can lead to expensive retrofits, wasted energy, or increased infection risk increasing patients recovery time.
-<img width="4262" height="263" alt="image" src="" />
+
+## Methodolgy
+ <img src="https://github.com/Myshx/CP-Evaluating-Ventilation-Strategies-Impacts-on-Occupant-Safety-and-Thermal-Comfort-in-Isolated-ICU/blob/main/methods%201.jpg" width="300px">
